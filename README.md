@@ -1,4 +1,4 @@
-# Projeto de Machine Learning de ponta a ponta — California Housing
+# Projeto de Machine Learning de ponta a ponta California Housing
 
 Atividade da disciplina de Inteligência Artificial e Computacional, baseada no Capítulo 2 de *Hands-On Machine Learning* (Aurélien Géron).
 
