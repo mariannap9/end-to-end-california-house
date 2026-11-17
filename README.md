@@ -9,7 +9,7 @@ Previsão do valor mediano de imóveis por distrito da Califórnia (regressão s
 - `data/housing.csv`: dados de referência do livro (repositório de Géron). O notebook baixa o arquivo sozinho se ele não existir.
 - `requirements.txt`: bibliotecas usadas.
 
-## Como executar
+## Como executar?
 ```bash
 python -m venv .venv
 source .venv/bin/activate        # Windows: .\.venv\Scripts\Activate.ps1
